@@ -3,7 +3,7 @@
 # How to setup Appwrite?
 Follow this link: https://appwrite.io/
 
-# How to setup Twilio 
+# How to setup Twilio? 
 Follow this link: https://www.twilio.com/whatsapp/pricing/us
 
 # 📁 Automatic Reminder via WhatsApp
